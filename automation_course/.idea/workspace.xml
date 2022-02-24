@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f842c8f8-d85a-47b1-8614-95e5ef853875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/automation_course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25Y9uZnBaDilsosMht24YSKRRTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GenerateRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework1.GenerateRandomNumber" />
+      <module name="automation_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateRandomNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f842c8f8-d85a-47b1-8614-95e5ef853875" name="Default Changelist" comment="" />
+      <created>1645693379293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645693379293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 1 - checking if a randomly generated number is higher than 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 - checking if a randomly generated number is higher than 5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645705894550">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state x="304" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.943@0.25.1680.943" timestamp="1645705894550" />
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom" timestamp="1645707301038">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom/0.25.1680.943@0.25.1680.943" timestamp="1645707301038" />
+    <state width="1638" height="250" key="GridCell.Tab.0.center" timestamp="1645707301037">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.center/0.25.1680.943@0.25.1680.943" timestamp="1645707301037" />
+    <state width="1638" height="250" key="GridCell.Tab.0.left" timestamp="1645707301037">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.left/0.25.1680.943@0.25.1680.943" timestamp="1645707301037" />
+    <state width="1638" height="250" key="GridCell.Tab.0.right" timestamp="1645707301038">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.right/0.25.1680.943@0.25.1680.943" timestamp="1645707301038" />
+    <state x="440" y="233" key="Vcs.Push.Dialog.v2" timestamp="1645699049628">
+      <screen x="0" y="25" width="1680" height="943" />
+    </state>
+    <state x="440" y="233" key="Vcs.Push.Dialog.v2/0.25.1680.943@0.25.1680.943" timestamp="1645699049628" />
+  </component>
+</project>

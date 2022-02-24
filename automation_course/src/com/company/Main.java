@@ -35,7 +35,7 @@ public class Main {
         b++;
         System.out.println("B " + b);
 
-        System.out.println("Number " + number);
+        System.out.println("Number is" + number);
         System.out.println("Second Number " + secondNumber);
 
         number = secondNumber;
