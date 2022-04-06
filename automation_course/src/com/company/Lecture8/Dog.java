@@ -1,12 +1,13 @@
 package com.company.Lecture8;
 
-public class Dog extends Animal {
+public class Dog extends Mammal {
 
 
-    public Dog() {
+    public Dog(String name, int age, String breed) {
 
     }
 
+    @Override
     public String makeSound() {
         return "Bark";
     }

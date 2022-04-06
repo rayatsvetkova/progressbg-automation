@@ -1,6 +1,6 @@
 package com.homework7;
 
-public class Ceo extends Person {
+public abstract class Ceo extends Human {
     public Ceo(String name, int age) {
         super(name, age);
     }

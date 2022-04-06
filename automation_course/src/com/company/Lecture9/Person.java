@@ -5,10 +5,13 @@ public class Person {
     private double height;
     private String name;
 
+    static int count=0;
+
     public Person(int age, double height, String name) {
         this.age = age;
         this.height = height;
         this.name = name;
+        count++;
     }
 
     public int getAge() {

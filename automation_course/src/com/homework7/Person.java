@@ -1,28 +1,7 @@
 package com.homework7;
 
-public class Person {
-    private String name;
-    private int age;
+public interface Person {
 
-    public Person(String name, int age) {
-        this.name = name;
-        setAge(age);
-        //this.age = age;
-    }
+    String sayHi();
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
 }

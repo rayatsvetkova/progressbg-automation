@@ -2,11 +2,9 @@ package com.company.Lecture8;
 
 public class Main {
     public static void main(String[] args) {
+        Animal animal=new Dog("Carrie",4,"Golden");
+        animal.makeSound();
 
-        Dog dog = new Dog();
-        System.out.println(dog.makeSound());
 
-        Cat cat = new Cat();
-        System.out.println(cat.makeSound());
     }
 }
